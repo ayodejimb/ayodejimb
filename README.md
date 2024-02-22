@@ -11,8 +11,8 @@ I am actively looking for opportunities or collaboration within the intersection
 
 Please do not hesitate to contact me on:   
 
-- 📧 [![Email]](mailto:ayodejimubarak88@gmail.com)
-- 🔗 [![LinkedIn]](https://www.linkedin.com/in/mubarak-olaoluwa-597448147/)
+- 📧 [![Email](https://img.shields.io/badge/Email-ayodejimubarak88%40gmail.com-red?style=flat&logo=gmail)](mailto:ayodejimubarak88@gmail.com)
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mubarak%20Olaoluwa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mubarak-olaoluwa-597448147/)
 
 <!--
 **ayodejimb/ayodejimb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
