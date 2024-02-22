@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Mubarak
+
+I am a currently a graduate student in Information Technology in Healthcare with interets in: 
+
+- ![image](https://github.com/ayodejimb/ayodejimb/assets/97795408/b9c1f4f2-ae94-4a28-88b0-a3d3af3839f7)
+
 
 <!--
 **ayodejimb/ayodejimb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
