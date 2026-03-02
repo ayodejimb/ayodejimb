@@ -7,7 +7,7 @@
 
 ## Open for Opportunities and collaborations
 
-I am actively looking for opportunities or collaborations within the intersection of computer science and healthcare.  
+I am always open to collaborations at the intersection of computer science and healthcare.  
 
 Please do not hesitate to contact me on:   
 
