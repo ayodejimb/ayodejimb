@@ -2,7 +2,7 @@
 
 # 🧑‍🎓 I am currently a graduate student in Information Technology in Healthcare with interests in: 
 
-- ![image](https://github.com/ayodejimb/ayodejimb/assets/97795408/17541c2f-3666-4890-a4a1-28cb8d973c1c) DeepLearning & Machine learning for Healthcare
+- ![image](https://github.com/ayodejimb/ayodejimb/assets/97795408/17541c2f-3666-4890-a4a1-28cb8d973c1c) Computer vision, Deep Learning & Machine learning for Healthcare
 - ![image](https://github.com/ayodejimb/ayodejimb/assets/97795408/e34aa454-de88-4a03-b323-7ccf1f34f22f) Medical Image Analysis
 
 ## Open for Opportunities and collaborations
